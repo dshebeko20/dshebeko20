@@ -1,25 +1,66 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dmitry Shebeko
-=======================================================================================================================================
-
-Python-developer
-----------------
-
-A beginner Python developer. I am fond of programming, mathematics, and chess. I'm learning English. I strive for self-realization.
-
-* 🌍  I'm based in Tolyatti
-* ✉️  You can contact me at [dshebeko20@gmail.com](mailto:dshebeko20@gmail.com)
-* 🧠  I'm currently learning Python
-
+<!-- Header -->
 <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" alt="pytest" title="pytest"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pygame.png" alt="Pygame" title="Pygame"/></code>
+  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="400" alt="Coding animation">
+  
+  <h1>Привет, я Шебеко Дмитрий! 👋</h1>
+  <p>
+    <strong>Начинающий разработчик | Python</strong><br>
+    Стремлюсь создавать качественное ПО, а также получать и применять новые знания.
+  </p>
 </div>
 
-### Socials
+<!-- Badges -->
+<div align="center">
+  
+[Мой GitHub](https://github.com/dshebeko20)
+[Профиль ВКонтакте](https://vk.com/id1034437847)
+
+  
+</div>
+
+## 🎯 О себе
+
+- 🧠 **Навыки**: Python, Pytest, Pygame, Django, Matplotlb, Plotly, Colorama
+- 🛠 **Инструменты**: Git, VS Code
+- 📚 **Изучаю**: Tkinter
+- 🎓 **Образование**: Самотоятельное освоение программирования
+
+## 🔥 Мои проекты
+
+### 1. Проект Learning log
+- **Ссылка**: [GitHub](https://github.com/dshebeko20/learning_log)
+- **Технологии**: Python, Django
+
+### 2. Проект Shooting Game
+> Описание функционала и ценности проекта.
+- **Ссылка**: [GitHub](https://github.com/dshebeko20/shooting_game)
+- **Технологии**: Python, Pygame
+
+## 💻 Статистика кода
 
 <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+  
+![WakaTime](https://wakatime.com/badge/user/ваш-id/project/all.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш-логин&show_icons=true&theme=radical)
+  
+</div>
+
+## 📈 Активность
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dshebeko20)](https://git.io/streak-stats)
+  
+</div>
+
+## 📩 Как связаться
+
+- Email: [dshebeko20@gmail.com](mailto:ваш@email.com)
+- Telegram: [dshebeko_20](https://t.me/ваш_ник)
+
+
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/your-repo/images/footer.png" width="800" alt="Footer">
+  
 </div>
