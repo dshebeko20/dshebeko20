@@ -10,10 +10,10 @@
 <!-- Badges -->
 <div align="center">
   <a href="https://github.com/dshebeko2 Newton">
-    <img src="https://badges.github.io/static/badge.svg" alt="Мой GitHub" />
+    <img src="https://github.com/dshebeko20" alt="Мой GitHub" />
   </a>
   <a href="https://vk.com/id1034437847">
-    <img src="https://badges.github.io/static/badge.svg" alt="Профиль ВКонтакте" />
+    <img src="https://vk.com/id1034437847" alt="Профиль ВКонтакте" />
   </a>
 </div>
 
