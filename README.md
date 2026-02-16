@@ -1,7 +1,4 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="400" alt="Coding animation">
-  
+<!-- Header -->  
   <h1>Привет, я Шебеко Дмитрий! 👋</h1>
   <p>
     <strong>Начинающий разработчик | Python</strong><br>
