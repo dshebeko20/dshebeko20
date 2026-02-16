@@ -10,7 +10,7 @@
 <!-- Badges -->
 <div align="center">
 
-[Мой GitHub](https://github.com/dshebeko20)
+[GitHub](https://github.com/dshebeko20)
 [ВКонтакте](https://vk.com/id1034437847)
 
 
