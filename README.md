@@ -30,31 +30,18 @@
 - **Технологии**: Python, Django
 
 ### 2. Проект Shooting Game
-> Описание функционала и ценности проекта.
 - **Ссылка**: [GitHub](https://github.com/dshebeko20/shooting_game)
 - **Технологии**: Python, Pygame
 
-## 💻 Статистика кода
-
-<div align="center">
-
-![WakaTime](https://wakatime.com/badge/user/ваш-id/project/all.svg)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш-логин&show_icons=true&theme=radical)
-
-</div>
-
-## 📈 Активность
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dshebeko20)](https://git.io/streak-stats)
-
-</div>
+### 2. Проект Recent earthquakes
+- **Ссылка**: [GitHub](https://github.com/dshebeko20/shooting_game)
+- **Технологии**: Python, Plotly
 
 ## 📩 Как связаться
 
-- Email: [dshebeko20@gmail.com](mailto:ваш@email.com)
-- Telegram: [dshebeko_20](https://t.me/ваш_ник)
+- **Email**: [dshebeko20@gmail.com](mailto:dshebeko20@gmail.com)
+- **Telegram**: [@dshebeko_20](https://t.me/dshebeko_20)
+- **VK**: [Профиль ВКонтакте](https://vk.com/id1034437847)
 
 
 <div align="center">
