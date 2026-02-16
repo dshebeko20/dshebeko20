@@ -11,7 +11,7 @@
 <div align="center">
 
 [Мой GitHub](https://github.com/dshebeko20)
-[Профиль ВКонтакте](https://vk.com/id1034437847)
+[ВКонтакте](https://vk.com/id1034437847)
 
 
 </div>
@@ -42,10 +42,3 @@
 - **Email**: [dshebeko20@gmail.com](mailto:dshebeko20@gmail.com)
 - **Telegram**: [@dshebeko_20](https://t.me/dshebeko_20)
 - **VK**: [Профиль ВКонтакте](https://vk.com/id1034437847)
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/your-repo/images/footer.png" width="800" alt="Footer">
-
-</div>
