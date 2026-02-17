@@ -16,7 +16,7 @@
 
 ## 🎯 О себе
 
-- 🧠 **Навыки**: Python, Pytest, Pygame, Django, Matplotlb, Plotly, Colorama
+- 🧠 **Навыки**: Python, Pytest, Pygame, Django, Matplotlib, Plotly, Colorama
 - 🛠 **Инструменты**: Git, VS Code
 - 📚 **Изучаю**: Tkinter
 - 🎓 **Образование**: Самотоятельное освоение программирования
